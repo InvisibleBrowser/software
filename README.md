@@ -29,7 +29,7 @@
             <p><em>Limited Time Offer:</em> Get 1 day of Pro free with your first subscription!</p>
         </div>
         <div class="footer">
-            <p>© 2025 Invisible Browser. All rights reserved. | <a href="#">Unsubscribe</a> | <a href="#">Privacy Policy</a></p>
+            <p>© 2025 Invisible Browser. All rights reserved. </p>
             <p>Questions? Contact us at <a href="mailto:support@invisible-browser.com">support@invisible-browser.com</a></p>
         </div>
     </div>
