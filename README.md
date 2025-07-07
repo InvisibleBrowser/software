@@ -3,9 +3,10 @@
 
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+<meta name="description" content="Invisible Browser is built for job seekers who want to excel in online interviews. Stay undetectable and confident on Zoom, Google Meet, Teams, LeetCode, and HackerRank. Land your dream job with the browser made for success.">
+<meta name="keywords" content="Invisible Browser for Job Seekers, Online Interview Tool, Undetectable Interview Browser, Zoom Interview Support, Google Meet Help, Coding Test Tool, LeetCode Interview Aid, HackerRank Cracker, Secure Interview Platform, Job Interview Assistant">
+<meta name="author" content="Invisible Browser Team">
+<meta name="robots" content="index, follow">
 </head>
 <body>
     <div class="container">
